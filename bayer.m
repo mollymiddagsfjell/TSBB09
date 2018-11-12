@@ -39,7 +39,7 @@ mask3(1:2:end,1:2:end) = 1;
 img_rgb = reshape([im.*mask1 im.*mask2 im.*mask3],[size(im) 3]);
 
 %%
-f = [1 2 1]/4
+f = [1 2 1]/4;
 
 img = conv2(f, f, im.*mask1, 'same');
 figure
