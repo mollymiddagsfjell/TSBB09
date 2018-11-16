@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1217"
+   name=""
+   committed-date="2008-08-27T11:45:37.153514Z"
+   url="https://svn.isy.liu.se/edu/TSBB09/2008-HT2/lab-exercises/digitalkamera/lab1_data/bayer"
+   last-author="perfo"
+   kind="dir"
+   uuid="3e3ca77a-49e1-0310-8a44-da54427a2f19"
+   repos="https://svn.isy.liu.se/edu"
+   revision="1282"/>
+<entry
+   committed-rev="1217"
+   name="raw0030.png"
+   text-time="2008-10-20T11:22:30.908750Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="d9217de9fabc1cde9a85367ee55ac369"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:23.091233Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0031.png"
+   text-time="2008-10-20T11:22:30.918764Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="d4c0c05f505aca48991941ca5af0b975"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:23.782227Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0032.png"
+   text-time="2008-10-20T11:22:30.928779Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="5ae87cd9024ccec6e254216d47d3af27"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:24.473220Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0033.png"
+   text-time="2008-10-20T11:22:30.938793Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="b27338dc57969bed40baba8f456d1fdc"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:25.154200Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0070.png"
+   text-time="2008-10-20T11:22:30.948808Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="679fb58ff5e1d47120b48b6d3722b470"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:25.845193Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0034.png"
+   text-time="2008-10-20T11:22:30.958822Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="e0bce96be53b8c2fdb6e9e2c3410e8cb"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:26.526172Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0071.png"
+   text-time="2008-10-20T11:22:30.958822Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="03424b7eaaab4cdd6ea589d09a334461"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:27.207152Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0035.png"
+   text-time="2008-10-20T11:22:30.968836Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="2310e5e47a9f905c2f81ea3b4729a9f7"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:27.898145Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0072.png"
+   text-time="2008-10-20T11:22:30.978851Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f04a3710d458c6d66402670798f74080"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:28.579124Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0036.png"
+   text-time="2008-10-20T11:22:30.988865Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="0fcbf7ba6f0d1092fde3811eeb44dc57"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:29.270118Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0073.png"
+   text-time="2008-10-20T11:22:30.998880Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="ffc5e0d722df080b82b04d289f3cd946"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:29.951097Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0037.png"
+   text-time="2008-10-20T11:22:31.008894Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="7d0bdf0eb392776f1012caea4f8a6edc"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:30.642091Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0074.png"
+   text-time="2008-10-20T11:22:31.018908Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="0e73b48d074e8fff91ee6cfe70b76afa"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:31.333084Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0038.png"
+   text-time="2008-10-20T11:22:31.018908Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="9039368230761eb8dbcf95b74056369c"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:32.014064Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0075.png"
+   text-time="2008-10-20T11:22:31.028923Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="9ed76c3f7d6888bfae3849822f3432b5"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:32.695043Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0039.png"
+   text-time="2008-10-20T11:22:31.038937Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="ea3ae19f1fd580a966f67c0050b41c32"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:33.386036Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0076.png"
+   text-time="2008-10-20T11:22:31.048952Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="a375cbfcfc8b9f4851c1aacffa2201fd"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:34.067016Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0077.png"
+   text-time="2008-10-20T11:22:31.058966Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="ed0f8c026ab59d0ace25cf509bed8e7f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:34.758009Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0078.png"
+   text-time="2008-10-20T11:22:31.068980Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="07c5701b6bcbbc92d5a6a4c6397ac390"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:35.438988Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0079.png"
+   text-time="2008-10-20T11:22:31.078995Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="222706f1c98dda0c970b2f9d78f7ae72"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:36.129982Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0001.png"
+   text-time="2008-10-20T11:22:31.089009Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="7cd470fb8cc87fde17842985bb93d59a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:36.810961Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0002.png"
+   text-time="2008-10-20T11:22:31.099024Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="c06e5b1064bf58d48fc10364ceb94a48"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:37.501955Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0003.png"
+   text-time="2008-10-20T11:22:31.099024Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="93b6bf8620b7d3b5b34600b6240db70a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:38.182934Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0040.png"
+   text-time="2008-10-20T11:22:31.109038Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="3155971ec6267dfacdfa26e97ed069da"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:38.863913Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0004.png"
+   text-time="2008-10-20T11:22:31.119052Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="8c83eb4d7d41854d476edf4acd633892"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:39.554907Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0041.png"
+   text-time="2008-10-20T11:22:31.129067Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="afa2220ba3e5b0889656f5ea6657408f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:40.235886Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0005.png"
+   text-time="2008-10-20T11:22:31.139081Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="827edaa81e9674e671c5e4e0748da68e"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:40.916865Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0042.png"
+   text-time="2008-10-20T11:22:31.149096Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="da340a3ab52f0b35df0b0d529ddd09a3"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:41.607859Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0006.png"
+   text-time="2008-10-20T11:22:31.159110Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="7e60251611d9372dc33106d4a56d0749"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:42.288838Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0043.png"
+   text-time="2008-10-20T11:22:31.159110Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="9e018ce3b87b76940bd9e97a68f9faac"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:42.969817Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0007.png"
+   text-time="2008-10-20T11:22:31.169124Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="03fd0ca7185f288b47cd95a9ec7d6a20"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:43.660811Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0080.png"
+   text-time="2008-10-20T11:22:31.189153Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="3bbd1d6b00372ba37ee40187628514d4"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:44.341790Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0008.png"
+   text-time="2008-10-20T11:22:31.199168Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="b299c946d87fb45afe47c70876c5d489"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:45.022769Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0044.png"
+   text-time="2008-10-20T11:22:31.209182Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="5100e1cb924cb2c3851885f5fd91996b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:45.703748Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0081.png"
+   text-time="2008-10-20T11:22:31.349384Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="6ad254a55e1f05f5ec8a51436e662d8c"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:46.394742Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0009.png"
+   text-time="2008-10-20T11:22:31.409470Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="e4fa24e1bc7e8dd1a73e4e92ff9d3fd6"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:47.075721Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0045.png"
+   text-time="2008-10-20T11:22:31.529643Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="59ac53a8f46c23895725b8121a35538a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:47.756700Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0082.png"
+   text-time="2008-10-20T11:22:31.719916Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f17e01e9184c726a410c693e0f5cf29b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:48.447694Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0046.png"
+   text-time="2008-10-20T11:22:31.820060Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="86e204b17c2966ab36bdf183373aab1f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:49.128673Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0083.png"
+   text-time="2008-10-20T11:22:31.970276Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="38facb7e0fb8b437606861c66dc0cd81"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:49.809652Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0047.png"
+   text-time="2008-10-20T11:22:32.120492Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="af0f688cc2edf8db92ae74b9d04913bc"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:50.500646Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0084.png"
+   text-time="2008-10-20T11:22:32.180579Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="224faa626dfd5352daf11f9fcbcb2d45"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:51.181625Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0048.png"
+   text-time="2008-10-20T11:22:32.771428Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="0d3fa2757722352ea4096b9a7402048b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:51.862604Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0085.png"
+   text-time="2008-10-20T11:22:32.781443Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="4bdc5e6149cfce9d17aaec1acebd9802"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:52.553598Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0049.png"
+   text-time="2008-10-20T11:22:32.791457Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="4647dc91eda1a0e5eb1933556eeddf0f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:53.234577Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0086.png"
+   text-time="2008-10-20T11:22:32.921644Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="ef1ff9a6ed4f483dfa6461749dbd1871"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:53.915556Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0087.png"
+   text-time="2008-10-20T11:22:32.961702Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="daf57160542b96256260e7dcf292ca62"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:54.606550Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0088.png"
+   text-time="2008-10-20T11:22:33.262134Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f2f71ad038a0a12f2e0183f996d8a6b2"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:55.287529Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0089.png"
+   text-time="2008-10-20T11:22:33.672724Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="7a70a95c71d58a034ef6d6a9e9a31aba"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:55.968508Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0010.png"
+   text-time="2008-10-20T11:22:33.682739Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="ae7cb0b4ba2d631cc9a275c0c5637f1f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:56.659502Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0011.png"
+   text-time="2008-10-20T11:22:33.732811Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="1ad4c60756dbd156d598b8dec3039e63"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:57.340481Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0012.png"
+   text-time="2008-10-20T11:22:33.792897Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="63f7fa4242cb486bcf75837293d779f3"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:58.021460Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0013.png"
+   text-time="2008-10-20T11:22:34.113358Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="571a38722158f77f5f5cdb2ce845a4c1"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:58.712454Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0014.png"
+   text-time="2008-10-20T11:22:34.143401Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="4fbb6806312a2f14c822c1bf85ea242e"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:21:59.393433Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0050.png"
+   text-time="2008-10-20T11:22:34.193473Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="794bff328fa3a676c39d5f45ebdc8f8f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:00.074412Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0015.png"
+   text-time="2008-10-20T11:22:34.503920Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="6edd6bd28a5f0c7172441cb60d48681d"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:00.755392Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0051.png"
+   text-time="2008-10-20T11:22:34.553992Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f49008ee22c19c58b96348ab214c753b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:01.446385Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0016.png"
+   text-time="2008-10-20T11:22:34.694193Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="6953ecaff2034b66fd14167fc4d32c1a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:02.127364Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0052.png"
+   text-time="2008-10-20T11:22:34.754280Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="3ba4f3aafc75c8161561d14439d82bd8"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:02.808344Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0017.png"
+   text-time="2008-10-20T11:22:35.234971Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="bc8284429ea755bbe299b6e55fe85555"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:03.499337Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0053.png"
+   text-time="2008-10-20T11:22:35.255000Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="46c02e33fce80c2f808f8e2a7767201e"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:04.180316Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0090.png"
+   text-time="2008-10-20T11:22:35.275028Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="31894d7206bb121382ef3f7a4869a462"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:04.861296Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0018.png"
+   text-time="2008-10-20T11:22:35.795777Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="86407baff6bcd73929294c275ee62b42"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:05.552289Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0054.png"
+   text-time="2008-10-20T11:22:35.895921Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="6783e0a9e0e91904cefb62834cfb8e3c"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:06.233268Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0055.png"
+   text-time="2008-10-20T11:22:35.956008Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="178f9d6208bd22f295092b6f67749a41"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:06.914248Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0019.png"
+   text-time="2008-10-20T11:22:35.966022Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="60058c4fe29f120283cdedafff0ad58b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:07.595227Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0091.png"
+   text-time="2008-10-20T11:22:35.976036Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="95c0da50dddca476722a8d31b9be155f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:08.286220Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0056.png"
+   text-time="2008-10-20T11:22:36.036123Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="c6c0b0832f4b7566dab56e126f1e9a9a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:08.967200Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0092.png"
+   text-time="2008-10-20T11:22:36.246425Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="21165c576b9c33dfedea3994f22766ac"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:09.648179Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0057.png"
+   text-time="2008-10-20T11:22:36.326540Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="d061e6f52604ec89f0c234d98d89d93f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:10.329158Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0093.png"
+   text-time="2008-10-20T11:22:36.526828Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="3199638a94a2772169b52980d32710cd"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:11.020152Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0058.png"
+   text-time="2008-10-20T11:22:36.677044Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="94697f0b6f374d232623c404dc1385fc"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:11.701131Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0094.png"
+   text-time="2008-10-20T11:22:36.847289Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="28cbc1607e9f548489d5b9a432b8b1c3"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:12.392124Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0059.png"
+   text-time="2008-10-20T11:22:36.927404Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="194b61a2f2c3ec6ca86c2b6ea997f990"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:13.073104Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0095.png"
+   text-time="2008-10-20T11:22:37.047577Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="03dc16c7a0183f23b1100a5edf01ef54"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:13.754083Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0096.png"
+   text-time="2008-10-20T11:22:37.277908Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="dd318f053711f1317567cf792140c57a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:14.435062Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0097.png"
+   text-time="2008-10-20T11:22:37.488211Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="73d7dc279a2378abd0ad7d351b3597a8"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:15.126056Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0098.png"
+   text-time="2008-10-20T11:22:37.488211Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="80f433a89114f7173394b85dc1d1973a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:15.807035Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0099.png"
+   text-time="2008-10-20T11:22:37.648441Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="fc827f522446a199bd7ea298707a2177"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:16.488014Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0100.png"
+   text-time="2008-10-20T11:22:37.888787Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="fd9297cf6dea071ed19b18112abd0a0f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:17.168993Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0020.png"
+   text-time="2008-10-20T11:22:37.988931Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="4cc34c4067f3edfc71cf94276b56db40"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:17.859987Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0021.png"
+   text-time="2008-10-20T11:22:38.169190Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="6ac012e4c023cf30c346972d782cc045"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:18.540966Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0022.png"
+   text-time="2008-10-20T11:22:38.319406Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="bf0712702f9e13c93083dd7a90f9e89e"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:19.221945Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0023.png"
+   text-time="2008-10-20T11:22:38.399521Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="c751085e8a4c5843756c41afd188ef04"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:19.912939Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0060.png"
+   text-time="2008-10-20T11:22:38.950313Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="2676ee5a5b026ced40fba91fcb756de2"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:20.593918Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0024.png"
+   text-time="2008-10-20T11:22:38.960328Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="01840529f5f50b6f5b5fbac1721c5787"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:21.274897Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0061.png"
+   text-time="2008-10-20T11:22:38.990371Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="85b793dfbaa6c809460085673338554a"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:21.955876Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0025.png"
+   text-time="2008-10-20T11:22:39.100529Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f7d71aafe44733a5d066756be7d25683"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:22.646870Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0062.png"
+   text-time="2008-10-20T11:22:39.190659Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="d1cd3b4e477c7ac8811102b22ebc1b93"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:23.327849Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0026.png"
+   text-time="2008-10-20T11:22:39.400961Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="2ee7f5d6a4eba07ecc152988cef9c15b"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:24.008828Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0063.png"
+   text-time="2008-10-20T11:22:39.511120Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="f20b279a7ab349f18d3775c6479f2652"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:24.699822Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0027.png"
+   text-time="2008-10-20T11:22:39.581220Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="79518182c561f95fcb295cb77a723a40"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:25.380801Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0064.png"
+   text-time="2008-10-20T11:22:39.741451Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="19eb5d985dd06f3c9b94995cd2b0c03c"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:26.061780Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0028.png"
+   text-time="2008-10-20T11:22:39.861624Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="d3db42837aa80a2244d4636bbd3feab8"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:26.752774Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0029.png"
+   text-time="2008-10-20T11:22:40.492531Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="2f4949b873531845a608c56ed641e27f"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:27.433753Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0065.png"
+   text-time="2008-10-20T11:22:40.592675Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="e5acbfcfa818c0af72223693fc2476b7"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:28.114732Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0066.png"
+   text-time="2008-10-20T11:22:41.003265Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="7f58076e7e7c9722b09dd78648c51057"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:28.825755Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0067.png"
+   text-time="2008-10-20T11:22:41.013280Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="3dac404b2bfd596237aa71ab0e6804f5"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:29.516748Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0068.png"
+   text-time="2008-10-20T11:22:41.093395Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="017d55e7f0a342c1cf784be94237542d"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:30.197728Z"/>
+<entry
+   committed-rev="1217"
+   name="raw0069.png"
+   text-time="2008-10-20T11:22:41.403841Z"
+   committed-date="2008-08-27T11:45:37.153514Z"
+   checksum="1a7a7636f35565be96a5b0ab25084b87"
+   last-author="perfo"
+   kind="file"
+   prop-time="2008-10-20T11:22:30.888721Z"/>
+</wc-entries>
