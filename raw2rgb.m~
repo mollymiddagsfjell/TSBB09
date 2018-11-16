@@ -1,0 +1,24 @@
+function [ rgb ] = raw2rgb( raw )
+%UNTITLED Summary of this function goes here
+%   Detailed explanation goes here
+
+image = im2double(raw);
+[rows,cols,ndim] = size(image);
+
+%Red
+red = zeros(rows,cols);
+mask1(2:2:end,2:2:end) = 1;
+
+%Green
+mask2 = zeros(rows,cols);
+mask2(1:2:end,2:2:end) = 1;
+mask2(2:2:end,1:2:end) = 1;
+
+%Blue
+mask3 = zeros(rows,cols);
+mask3(1:2:end,1:2:end) = 1;
+
+
+
+end
+
