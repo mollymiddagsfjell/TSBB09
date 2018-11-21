@@ -4,7 +4,7 @@ part = 'B_3';  % B_1, B_2, B_3 or B_4
 
 %========= B_2 =================
 % INPUT:
-degree_pol=0;   % degree of polynomial = 0, 1 or 2
+degree_pol=2;   % degree of polynomial = 0, 1 or 2
 % OUTPUT: 
 % OI_c and C
 %======================================
@@ -13,9 +13,9 @@ switch part
     case {'B_3', 'B_4'}  
 %======= B_3 and B_4 ====================
 % INPUT:
-degree_pol=2;   % degree of polynomial = 0,1 or 2
+degree_pol=0;   % degree of polynomial = 0,1 or 2
 OI_c=OI_c0;     % OI_cX = corrected scenedata using polynomial of degree X
-K=100000;         % K = rawdata pixel-median filtered pixel
+K=1000;         % K = rawdata pixel-median filtered pixel
 % OUTPUT:
 % OI_c_dp
 %==========================================================
@@ -53,10 +53,10 @@ switch part
     case {'B_3', 'B_4'}       
         % Replaces the dead pixels in corrected image data  
         
-        [row, col, frame]=size(OI_c);
-        OI_c_dp=OI_c;
+        [row, col, frame]=size(OI_c0);
+        OI_c_dp=OI_c0;
         mask = id_dp(Refdata1, col, K);
-        L=medfilt2(OI_c,[3 7]);  
+        L=medfilt2(OI_c0,[3 7]);  
         OI_c_dp(mask)=L(mask);
 
         figure

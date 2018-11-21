@@ -1,9 +1,9 @@
 
 %%%%%%% INPUT %%%%%%%%%%%%%%%%%%%
-qualityMetrics = 'roughness';    % RMSE, UIQI or Roughness
+qualityMetrics = 'uiqi';    % RMSE, UIQI or Roughness
 col=351;                    % the  are kept 
-OI_c=OI_c1_dp(:,1:col);        % OI_cX = corrected scenedata using polynomial of degree X
-dp_replacement='true';     % 'true' performs a dead pixel replacement 
+OI_c=OI_c0_dp(:,1:col);        % OI_cX = corrected scenedata using polynomial of degree X
+dp_replacement='false';     % 'true' performs a dead pixel replacement 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 OI_raw=Scenedata(:,1:col,1);

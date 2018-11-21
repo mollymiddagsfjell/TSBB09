@@ -74,12 +74,12 @@ plot(time, pixeltimearraypeppar)
 figure
 part3_B
 
-%% C-1
 
+%% C-1
 part = Scenedata(:,1:351,1);
 figure
 imagesc(part);
 
 %% RMSE
 
-RMSE = sqrt( (1/20)*sum(pow()) );
+%%RMSE = sqrt( (1/20)*sum(pow()) );
